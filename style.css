@@ -1,0 +1,15 @@
+
+/* Styles for all devices */
+/* Default layout for all devices (elements side-by-side) */
+.container  {
+ 
+  width: 100%;  
+  
+}
+
+
+img{
+  max-width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
